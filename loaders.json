@@ -49,8 +49,8 @@
       "expireSize": 13
     },
       {
-      "name": "Sarkar Premium Loader",
-      "displayName": "SARKARLOADER",
+      "name": "SARKARLOADER",
+      "displayName": "Sarkar Premium Loader",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
      "pinnedKey": "",
       "ui1": false,
