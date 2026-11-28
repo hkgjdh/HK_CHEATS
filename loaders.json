@@ -23,7 +23,7 @@
       "displayName": "BGMI PREMIUM",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
-      "espStyle": 1,
+      "espStyle": 3,
       "counterStyle": 1,
       "textColor": [255, 255, 0, 255],
       "expireColor": [0, 255, 255, 255],
