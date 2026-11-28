@@ -24,7 +24,7 @@
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
-      "counterStyle": 1,
+      "counterStyle": 12,
       "textColor": [255, 255, 0, 255],
       "expireColor": [0, 255, 255, 255],
       "textX": 108,
