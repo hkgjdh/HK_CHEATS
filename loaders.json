@@ -36,6 +36,24 @@
       "textAnchor": "right",
       "expireAnchor": "left"
     },
+     {
+      "name": "HAXLOADER",
+      "displayName": "HAX LOADER",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
+      "pinnedKey": "",
+      "espStyle": 1,
+      "counterStyle": 1,
+      "textColor": [255, 255, 0, 255],
+      "expireColor": [0, 255, 255, 255],
+      "textX": 108,
+      "textY": 668,
+      "expireX": 54,
+      "expireY": 668,
+      "textSize": 19,
+      "expireSize": 19,
+      "textAnchor": "right",
+      "expireAnchor": "left"
+    },
     {
       "name": "SARKARLOADER",
       "displayName": "Sarkar Premium Loader",
